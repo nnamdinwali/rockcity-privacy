@@ -1,2 +1,3 @@
-# rockcity-privacy
-Privacy Policy for Rockcity (play-to-earn platform)
+# Rockcity Privacy Policy
+
+Live: https://nnamdinwali.github.io/rockcity-privacy/
